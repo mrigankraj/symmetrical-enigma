@@ -1,6 +1,6 @@
 ---
 title: "Automating neural network configuration with Keras Tuner"
-date: "2024-06-28"
+date: "2024-06-26"
 categories:
   - "deep-learning"
   - "frameworks"
@@ -21,7 +21,7 @@ However, I do believe that this is going to end. Not deep learning itself, but t
 
 We'll first cover the supervised machine learning process and illustrate hyperparameter tuning and its difficulties in more detail. Subsequently, we'll provide some arguments as to why automating hyperparameter tuning can lead to _better_ end results in possibly _less time_. Then, we introduce the Keras Tuner, and close off with a basic example so that you can get basic experience. In another blog post, we'll cover the Keras Tuner building blocks, which will help you gain a deeper understanding of automated hyperparameter tuning.
 
-**Update 30/June/2024:** added references to PCA article.
+**Update 28/June/2024:** added references to PCA article.
 
 * * *
 
